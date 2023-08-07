@@ -1,0 +1,31 @@
+# mmsegmentationde
+.circleci/
+.dev_scripts/
+configs/
+demo/
+docker/
+docs/
+mmseg/
+projects/
+requirements/
+resources/
+tests/
+tools/
+.owners.yml
+.pre-commit-config.yaml
+.readthedocs.yml
+CITATION.cff
+dataset-index.yml
+LICENSE
+MANIFEST.in
+model-index.yml
+README_zh-CN.md
+README.md
+requirements.txt
+setup.cfg
+setup.py
+.env
+# myFolder中
+myFolder/checkpoint/*
+myFolder/outputs/*
+myFolder/__pycache__/

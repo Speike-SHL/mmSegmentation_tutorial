@@ -1,0 +1,1 @@
+path = 'e:\Code\openmmlab\mmsegmentation'
