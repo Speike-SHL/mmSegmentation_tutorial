@@ -1,6 +1,7 @@
 # mmsegmentationde
 .circleci/
 .dev_scripts/
+.idea/
 configs/
 demo/
 docker/
@@ -19,8 +20,6 @@ dataset-index.yml
 LICENSE
 MANIFEST.in
 model-index.yml
-README_zh-CN.md
-README.md
 requirements.txt
 setup.cfg
 setup.py
@@ -29,3 +28,6 @@ setup.py
 myFolder/checkpoint/*
 myFolder/outputs/*
 myFolder/__pycache__/
+myFolder/config/*
+myFolder/chart/*
+myFolder/work_dirs/*
