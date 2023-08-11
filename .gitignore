@@ -24,6 +24,7 @@ requirements.txt
 setup.cfg
 setup.py
 .env
+mmsegmentation.egg-info
 # myFolder中
 myFolder/checkpoint/*
 myFolder/outputs/*
